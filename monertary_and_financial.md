@@ -4,9 +4,9 @@
     Domain: tiennv10
     Tài liệu tham khảo: Giáo trình tài chính tiền tệ 1, 2
 
-## 2. Những lý luận cơ bản về tiền tệ
+## 1. Những lý luận cơ bản về tiền tệ
 
-### 2.1. Sự ra đời, hình thái và bản chất của tiền tệ
+### 1.1. Sự ra đời, hình thái và bản chất của tiền tệ
 
 "`Tiền tệ` là một phạm trù kinh tế, đồng thời cũng là phạm trù lịch sử. Sự xuất hiện của tiền tệ là một phát minh của con người trong lĩnh vực kinh tế và làm thay đổi bộ mặt của nền kinh tế xã hội"
 
@@ -39,7 +39,7 @@ Tiền có biểu hiện ở rất nhiều thứ khác nhau. Đối với hầu 
 
 Lịch sử phát triển tiền tệ đã chứng minh rằng tiền tệ là sản phẩm tất yếu của nền kinh tế hàng hóa. Suy cho cùng, **về bản chất tiền tệ là vật ngang giá chung, làm phương tiện để trao đổi hàng hóa, dịch vụ và thanh toán các khoản nợ.**
 
-### 2.2. Cung cầu tiền tệ và chính sách tiền tệ 
+### 1.2. Cung cầu tiền tệ và chính sách tiền tệ 
 
 *Cung tiền tệ là khối lượng tiền cung ứng của nền kinh tế, đảm bào các nhu cầu sản xuất lưu thông hàng hóa, cũng như các nhu cầu chi tiêu trao đổi khác của nền kinh tế  xã hội.* 
 
@@ -66,7 +66,7 @@ Mục tiêu của chính sách tiền tệ
 - Tạo ra nhiều việc làm
 - Ổn định tỉ giá hối đoái
 
-### 2.3. Lạm phát
+### 1.3. Lạm phát
 
 Lạm phát là một trong những vấn đề nan giải nhất mà các quốc gia(đặc biệt là các quốc gia chuyển đổi từ một nền kinh tế tập trung sang kinh tế thị trường).
 
